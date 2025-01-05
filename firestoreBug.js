@@ -1,0 +1,1 @@
+In a Firebase project, I encountered an issue where data wasn't being written to the Firestore database consistently.  The write operations would sometimes succeed, and sometimes fail silently, without any errors being thrown in the client-side code. This was particularly frustrating because there was no clear indication of what was causing the intermittent failures.
